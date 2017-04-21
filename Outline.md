@@ -24,7 +24,7 @@
 * Thorgon race status: static
 
 ### Ag-AckAck Snurf
-* Known as Snurf only to himself and Humans
+* Known as Snurf only to itself and Humans
 * Under-Deputy-Vice-Sub-Snarglist (a title earned during decades serving the Empire's bureaucratic machine)
 * One side-effect of his long association with the Humans: dark, subversive, questioning thoughts bareley quashed and growing with time.
 
