@@ -13,7 +13,7 @@
 * Failed introductory space exam
 * Clumsy, impatient
 
-##Thorgons
+## Thorgons
 * Ag-AckAck Snurf (Under-Deputy-Vice-Sub-Snarglist)
 
 ## Planets
@@ -22,7 +22,7 @@
 ### Planet 9
 * A vaguely Earth-like planet, jointly selected for Human colonisation by a Human-Thorgon committee
 ### Thorgon
-* 
+* Where to begin…
 
 ## Ships
 
