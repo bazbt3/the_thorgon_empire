@@ -31,15 +31,16 @@
 
 ## Ships:
 
-### Human
-* Challenger
-* Discovery
-* Endeavor
+## Human
+### Challenger
+### Discovery
+### Endeavor
 
+## Thorgon
 ### Thorgon 9
 * Mothership assigned to Planet 9
 ### Thorgon 9c
 * Thorgon 9 shuttle c
 ### Ark C
 * The only viable Ark ship once the failures caused by insufficient budget deployment caused A and B to fail
-* Built in Earth orbit before the planet became suboptimal for resource extraction
+* Built in Earth orbit before the planet became suboptimal for resource extraction, designed for Human resettlement
