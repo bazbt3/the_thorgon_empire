@@ -1,6 +1,6 @@
 # The Thorgon Empire
 
-# Races
+## Races:
 
 ## Humans
 ### Brobarn (Captain)
@@ -14,9 +14,12 @@
 * Clumsy, impatient
 
 ## Thorgons
-* Ag-AckAck Snurf (Under-Deputy-Vice-Sub-Snarglist)
+### Ag-AckAck Snurf (Under-Deputy-Vice-Sub-Snarglist)
 
-## Planets
+---
+
+## Planets:
+
 ### Earth
 * A once classically Earth-like planet, laid waste during the Trunk Wars
 ### Planet 9
@@ -24,7 +27,9 @@
 ### Thorgon
 * Where to begin…
 
-## Ships
+---
+
+## Ships:
 
 ### Human
 * Challenger
