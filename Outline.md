@@ -14,7 +14,9 @@
 * Clumsy, impatient
 
 ## Thorgons
-### Ag-AckAck Snurf (Under-Deputy-Vice-Sub-Snarglist)
+### Ag-AckAck Snurf
+* Known as Snurf only to himself and Humans
+^ Under-Deputy-Vice-Sub-Snarglist (a title earned during decades serving the Empire's bureaucratic machine)
 
 ---
 
