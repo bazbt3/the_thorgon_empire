@@ -16,7 +16,7 @@
 ## Thorgons
 ### Ag-AckAck Snurf
 * Known as Snurf only to himself and Humans
-^ Under-Deputy-Vice-Sub-Snarglist (a title earned during decades serving the Empire's bureaucratic machine)
+* Under-Deputy-Vice-Sub-Snarglist (a title earned during decades serving the Empire's bureaucratic machine)
 
 ---
 
