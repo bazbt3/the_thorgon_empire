@@ -3,6 +3,8 @@
 ## Races:
 
 ## Humans
+Humans are a social race, intent on expansion beyond and 
+
 ### Brobarn (Captain)
 * Hates Captain Hadron
 ### Hadron (Captain)
@@ -10,13 +12,17 @@
 * Hates Captain Brobarn
 ### Hadron, Timmy
 * Captain Hadron's son
-* Failed introductory space exam
+* Failed introductory space examination
 * Clumsy, impatient
 
 ## Thorgons
+* Thorgons are a race devoid of the positive attributes of sociability, creativity, imagination; but Thorgons define themselves by: an innate sense of order, a resistance to change, and especially champion the suppression of innovation and independent thought.
+* They progress by subordinating other races and technologies, using their belief in their own superiority.
+
 ### Ag-AckAck Snurf
 * Known as Snurf only to himself and Humans
 * Under-Deputy-Vice-Sub-Snarglist (a title earned during decades serving the Empire's bureaucratic machine)
+* One side-effect of his long association with the Humans: dark, subversive, questioning thoughts bareley quashed and growing with time.
 
 ---
 
@@ -24,8 +30,10 @@
 
 ### Earth
 * A once classically Earth-like planet, laid waste during the Trunk Wars
+* Clearance completed
+* Final-stage mining underway
 ### Planet 9
-* A vaguely Earth-like planet, jointly selected for Human colonisation by a Human-Thorgon committee
+* A vaguely Earth-like planet, jointly selected for Human colonisation by a Human-Thorgon committee, terraformed
 ### Thorgon
 * Where to begin…
 
