@@ -35,7 +35,7 @@
 
 ## Thorgons
 * Thorgon race status: static.
-* Most of the attributes listed are contained within **The Thorgon Creed**, a complex set of instructions explicitly designed to channel every aspect of a Thorgon's existence towards conformance.
+* Most of the attributes listed are contained within [**The Thorgon Creed**](the_thorgon_creed.md), a complex set of instructions explicitly designed to channel every aspect of a Thorgon's existence towards conformance.
 * Thorgons are a race devoid of the positive attributes of sociability, creativity, imagination. Within a very narrow frame of reference the Thorgons define their 'happiness' (if that term is appropriate) by an entirely different set of attributes to the Human. The ideal Thorgon possesses an innate sense of order, a resistance to change, and especially champions the suppression of innovation and independent thought.
 * They progress up the administrative foodchain by subordinating other races and technologies. Their belief in their own superiority helps.
 * Utterly ruthless where the potential for easy profit is missing.
@@ -43,7 +43,7 @@
 * Whilst the term 'bureaucratic machine' normally refers to a concept of layers of frustration, the Thorgons have a bureaucratic machine. Just the one. It's huge.
 
 ### Ag-AckAck Snurf
-* Known as Snurf only to itself and Humans
+* Known as Snurf only to himself and Humans
 * Under-Deputy-Vice-Sub-Snarglist, a title earned during decades serving the Empire's bureaucratic machine.
 * One side-effect of his long association with the Humans: dark, subversive, questioning thoughts barely quashed, all growing with time.
 
