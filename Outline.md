@@ -50,6 +50,8 @@
 ### Planet 9
 * A vaguely Earth-like planet, jointly selected for Human colonisation by a Human-Thorgon committee.
 * Terraformed.
+* Vogon-capable-formed.
+* Do not confuse with the higher-capacity Solar System 9.
 
 ### Thorgon
 * Where to begin…
@@ -68,18 +70,29 @@
 
 ## Thorgon
 ### Technology
-* Faster than light drive. Capable of faster-than-light travel. Insanely (by Human standards) inefficient, requiring *huge* quantities of fuel. Used sparingly, the Thorgon has patience.
+* The Thorgons possess a faster-than-light drive so are *capable* of faster-than-light travel. Insanely (by Human standards) inefficient when required in a hurry, needs *huge* quantities of fuel and a strategic approach to activation. Used sparingly; the Thorgon has patience.
 * Everything else is a closely-guarded secret even within the Thorgon hierarchy. It appears on-demand, instigated by those who know things. 
 ### Thorgon 9
 * Mothership assigned to Planet 9.
+* Has Very Fast Drive, though slow to achieve terminal velocity.
+* Named after a senior Thorgon administrator.
+* Do not confuse with the higher-capacity Planet 9.
 ### Thorgon 9c
 * Thorgon 9 shuttle c.
+* No factory-fitted faster than light drive capability.
+* Interplanetary range.
+* Do not confuse with the higher-capacity Ark C.
 ### Ark C
-* The only viable Ark ship once the failures caused by insufficient budget deployment caused A and B to fail and crash into those inconveniently-placed suns.
-* Built by the Vogons in Earth orbit before the planet became suboptimal for resource extraction.
+* One of a fleet built by the Vogons in Earth orbit before the planet became suboptimal for resource extraction.
 * Designed for Human resettlement.
+* Designed and constructed in accordance with Thorgon Budget Approvals Subcommittee Rules, but due to an administrative oversight never passed up to the Thorgon Budget Approvals Subcommittee Rules Oversight Subcommittee for budget approval.
+* 'C' is the only known viable Ark ship due to the failures caused by insufficient budget deployment caused A and B to fail and crash into those inconveniently-placed suns.
+* Slow, ponderous, quite large.
+* Multiple failures approaching Planet 9 
 
 ---
+
+## Meta:
 
 ### Caveats:
 1. 'Pretty close to [canonical](http://www.urbandictionary.com/define.php?term=Canon)' is a definition. It can be bent, twisted, tossed aside, ignored entirely as the situation demands.
