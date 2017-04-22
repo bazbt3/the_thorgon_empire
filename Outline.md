@@ -50,7 +50,7 @@
 ## Other races:
 
 ## Unknown
-### V!lurm (Commander)
+### V!lum (Commander)
 * Has only one negative report on her permanent record: that  of allowing the Thorgon fleet through the wormhole. As biggies go, it's a biggie.
 ### Franck (Commander)
 * Also known informally as Number One by Captain Hadron.
