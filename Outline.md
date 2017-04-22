@@ -78,3 +78,8 @@
 * The only viable Ark ship once the failures caused by insufficient budget deployment caused A and B to fail and crash into those inconveniently-placed suns.
 * Built by the Vogons in Earth orbit before the planet became suboptimal for resource extraction.
 * Designed for Human resettlement.
+
+---
+
+### Credits:
+@mlv (App.net onwards), @schmidt_fu (pnut.io) and @bazbt3 (App.net onwards).
