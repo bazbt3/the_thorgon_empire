@@ -5,3 +5,5 @@ See the [**\#WedC**](https://pnut.io/tags/WedC) hashtag at pnut.io for live upda
 ---
 
 Initially inspired by @mlv's imagination on App.net and a Q2 2017 [pnut.io post](https://posts.pnut.io/72575) by @schmidt_fu.
+
+"This universe is intended to be almost, but not quite, entirely unlike Star Trek." --@mlv
