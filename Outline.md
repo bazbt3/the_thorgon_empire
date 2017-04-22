@@ -81,5 +81,9 @@
 
 ---
 
+### Caveats:
+1. 'Pretty close to [canonical](http://www.urbandictionary.com/define.php?term=Canon)' is a definition. It can be bent, twisted, tossed aside, ignored entirely as the situation demands.
+1. Aren't we lucky to have such a breadth of [documentary evidence,](https://en.m.wikipedia.org/wiki/Science_fiction) from which extracted interpretations can enhance *this* documentation?
+
 ### Credits:
 @mlv (App.net onwards), @schmidt_fu (pnut.io) and @bazbt3 (App.net onwards).
