@@ -1,3 +1,5 @@
+# Rule 1: a universe that is almost, but not quite, entirely unlike Star Trek
+
 # The Thorgon Empire
 
 ## Races:
@@ -7,6 +9,7 @@
 * Terran Human status: obsolete
 
 ### Brobarn (Captain)
+* Inferior captain, but thinks he's the best (legend in his own mind)
 * Hates Captain Hadron
 
 ### Hadron (Captain)
@@ -16,7 +19,8 @@
 ### Hadron, Timmy
 * Captain Hadron's son
 * Failed introductory space examination
-* Clumsy, impatient
+* Clumsy, impatient(?)
+* Overwweight
 
 ## Thorgons
 * Thorgons are a race devoid of the positive attributes of sociability, creativity, imagination; but Thorgons define themselves by: an innate sense of order, a resistance to change, and especially champion the suppression of innovation and independent thought.
@@ -48,6 +52,9 @@
 ## Ships:
 
 ## Human
+### Technology
+#### Starlight Drive. Capable of faster-than-light travel.
+### (Picked US Space Shuttles that weren't named "Enterprise" -- see rule 1)
 ### Challenger
 ### Discovery
 ### Endeavor
