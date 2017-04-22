@@ -70,7 +70,7 @@
 
 ## Thorgon
 ### Technology
-* The Thorgons possess a faster-than-light drive so are *capable* of faster-than-light travel. Insanely (by Human standards) inefficient when required in a hurry, needs *huge* quantities of fuel and a strategic approach to activation. Used sparingly; the Thorgon has patience.
+* The Thorgons possess a faster-than-light drive so are *capable* of faster-than-light travel. Insanely (by Human standards) inefficient when required in a hurry, The Very Fast Drive needs *huge* quantities of fuel and a strategic approach to activation. Used sparingly; the Thorgon has patience.
 * Everything else is a closely-guarded secret even within the Thorgon hierarchy. It appears on-demand, instigated by those who know things. 
 ### Thorgon 9
 * Mothership assigned to Planet 9.
