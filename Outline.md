@@ -61,10 +61,10 @@
 ## Human
 ### Technology
 * Starlight Drive. Capable of faster-than-light travel.
-### (Picked US Space Shuttles that weren't named "Enterprise" -- see rule 1)
 ### Challenger
 ### Discovery
 ### Endeavor
+(Picked US Space Shuttles that weren't named "Enterprise" -- see rule 1)
 
 ## Thorgon
 ### Technology
