@@ -1,5 +1,5 @@
 # The Thorgon Creed
-Adherence to The Creed is mandatory for Thorgons, very-strongly advised.
+Adherence to The Creed is mandatory for Thorgons, very-strongly advised for all other races subordinated into the Thorgon Empire.
 
 ## Extracts
 Necessarily limited.
