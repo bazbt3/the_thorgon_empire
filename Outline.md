@@ -81,6 +81,7 @@
 ## Human
 ### Technology
 * Starlight Drive. Capable of faster-than-light travel.
+* Blockers: shields which may or may not be resistant to Thorgon weapons.
 ### Challenger
 ### Discovery
 ### Endeavor
