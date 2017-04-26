@@ -73,6 +73,8 @@
 
 ### Thorgon Prime
 * Where to begin…
+#### Tourism
+* Directions to Argle Theatre gallery: Find Glarf Forest then turn left, the theatre is easy to spot. If its entrance is busy go round the back way, through the galley, go up then through the door. The view of Humans, though disgusting, is worth the trip.
 
 ---
 
