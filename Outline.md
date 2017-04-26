@@ -64,17 +64,21 @@
 * A once classically Earth-like planet, laid waste during the Trunk Wars.
 * Clearance completed.
 * Final-stage mining underway.
+#### Tourism
+* Just don't, it smells all wrong.
 
 ### Planet 9
 * A vaguely Earth-like planet, jointly selected for Human colonisation by a Human-Thorgon committee.
 * Terraformed.
 * Vogon-capable-formed.
 * Do not confuse with the higher-capacity Solar System 9.
+#### Tourism
+* Just don't, it smells all wrong.
 
 ### Thorgon Prime
 * Where to begin…
 #### Tourism
-* Directions to Argle Theatre gallery: Find Glarf Forest then turn left, the theatre is easy to spot. If its entrance is busy go round the back way, through the galley, go up then through the door. The view of Humans, though disgusting, is worth the trip.
+* Directions to Argle Theatre viewing gallery: Find Glarf Forest then turn left, the theatre is easy to spot. If its entrance is busy go round the back way, through the galley, go up then through the door. The view of Humans, though disgusting, is worth the trip.
 
 ---
 
