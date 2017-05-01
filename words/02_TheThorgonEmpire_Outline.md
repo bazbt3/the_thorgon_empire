@@ -72,6 +72,8 @@ Sniffing: "We are not paid enough for this."
 Turning the document over: "Oh, a map."
 
 ￼
+[maps don't render well in text-only documents, see the PDF or the images folder]
+
 
 "Sophisticated for our Cartographic cadre, that."
 
