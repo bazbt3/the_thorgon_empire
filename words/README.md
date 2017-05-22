@@ -1,7 +1,7 @@
 ## The Thorgon Empire
-**A novella**
+**A science fiction novella**
 
-I am not a writer, this will become obvious to any discriminating reader.
+Reading my >5th draft it will soon become obvious to any discriminating reader that I am not a writer.
 
 I've made 2 file formats available for ease of access across platforms but with some styling because I'm intending to add more pictures!
 
