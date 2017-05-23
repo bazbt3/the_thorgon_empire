@@ -11,3 +11,8 @@ I've made 2 file formats available for ease of access across platforms but with 
 Now, because GitHub treats 'binary' files differently to regular sites, I've decided to link to a Dropbox folder, here:
 
 [https://www.dropbox.com/sh/pxdrr2u6ntw29rw/AAB3ktFPVSbCoKfnBpPJXT5Za?dl=0](https://www.dropbox.com/sh/pxdrr2u6ntw29rw/AAB3ktFPVSbCoKfnBpPJXT5Za?dl=0)
+
+---
+
+2017-05-23:
+* (Gah! I just found an *annoying* typo on page 1: `'previous'`.  Corrections only to the original at this stage.)
