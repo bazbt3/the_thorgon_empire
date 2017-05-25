@@ -17,4 +17,4 @@ Initially inspired by @mlv's imagination on App.net and a Q2 2017 [pnut.io post]
 
 ---
 
-p.s. I wrote a book. Look in the [\words](https://github.com/bazbt3/the_thorgon_empire/tree/master/words) folder.
+p.s. I wrote a book. Look in the [`\words`](https://github.com/bazbt3/the_thorgon_empire/tree/master/words) folder.
